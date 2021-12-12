@@ -12,12 +12,12 @@ I am **Shivesh Nandan**
 
 
 
-Follow me writting at [Instagram]()
+Follow me writting at [Instagram](https://www.instagram.com/)
 
 ## Coding Skills
 
 <p>
-  <img src = "link" height="70px"/>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="70px"/>
   <img src = "link"/>
   </p>
   
@@ -32,7 +32,7 @@ Follow me writting at [Instagram]()
 
 ## Contact Me
 
-[<img scr = "link" height="70px"/>](link site ki)
+[<img scr = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="70px"/>](https://www.instagram.com/)
 
 
   
