@@ -14,9 +14,9 @@ Skills: C/C++/HTML/CSS/Javascript
 
 
 ## Github Stats
-- [![GitHub Streak](https://streak-stats.demolab.com?user=ShiveshNandan&theme=tokyonight_duo&border_radius=20&date_format=j%20M%5B%20Y%5D&bg_color=00000000)](https://git.io/streak-stats)
-- ![Shivesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiveshNandan&show_icons=true&theme=tokyonight&border_radius=20&bg_color=00000000)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiveshNandan&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-- [![](https://visitcount.itsvg.in/api?id=ShiveshNandan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShiveshNandan&theme=tokyonight_duo&border_radius=20&date_format=j%20M%5B%20Y%5D&bg_color=00000000)](https://git.io/streak-stats)<br>
+![Shivesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiveshNandan&show_icons=true&theme=tokyonight&border_radius=20&bg_color=00000000)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiveshNandan&layout=compact&theme=tokyonight&border_radius=20&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![](https://visitcount.itsvg.in/api?id=ShiveshNandan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-  
+
