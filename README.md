@@ -1,10 +1,10 @@
 <div align = "center">
 
 
-   <img src="https://github.com/ShiveshNandan/ShiveshNandan/main/Black Technology LinkedIn Banner (2)?raw=true"/>
+   <img src="https://github.com/ShiveshNandan/ShiveshNandan/blob/main/Shivesh.png?raw=true"/>
    
    
-  # Hi !! I'm **Shivesh Nandan** <img src = "https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px"/>
+  # Hi !! <img src = "https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px"/> I'm **Shivesh Nandan** 
   
   
 </div>
@@ -73,6 +73,6 @@
 [<img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png" height="60px">](https://www.instagram.com/shivesh_nandan/)
 [<img src = "https://img.icons8.com/fluent/48/000000/twitter.png" height = "50px">](https://twitter.com/shivesh_nandan)
 [<img src = "https://img.icons8.com/fluent/48/000000/linkedin.png" height = "55px">](https://www.linkedin.com/in/shivesh-nandan-39a1b219a/)
-  
+<a href = "mailto:kshivesh929@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   
   </div>
