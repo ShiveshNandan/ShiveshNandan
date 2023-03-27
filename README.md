@@ -1,7 +1,7 @@
 <div align = "center">
 
 
-   <img src="https://github.com/kartikkc/kartikkc/blob/main/Kartik%20Singh.png?raw=true"/>
+   <img src="https://github.com/ShiveshNandan/ShiveshNandan/main/Black Technology LinkedIn Banner (2)?raw=true"/>
    
    
   # Hi !! I'm **Shivesh Nandan** <img src = "https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px"/>
